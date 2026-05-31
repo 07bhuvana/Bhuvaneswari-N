@@ -14,31 +14,16 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Bhuvaneswari:
-    def __init__(self):
-        self.name         = "Bhuvaneswari N"
-        self.location     = "India 🇮🇳"
-        self.degree       = "M.Tech Software Engineering @ VIT (CGPA: 8.66)"
-        self.email        = "bhuvaneswarijo712@gmail.com"
-        self.github       = "github.com/07bhuvana"
-        self.linkedin     = "https://www.linkedin.com/in/bhuvaneswari-n-4b218a358/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Ba0P11R7oSyuRLtRbseeZZw%3D%3D"
-
-        self.stack        = ["Java", "Python", "JavaScript", "SQL",
-                             "Spring Boot", "React", "TensorFlow",
-                             "PostgreSQL", "Docker", "REST APIs"]
-
-        self.currently_learning = [
-            "Apache Spark & Distributed Systems",
-            "MLOps & Experiment Tracking (MLflow)",
-            "Microservices Architecture",
-        ]
-
-        self.fun_fact = "I trained a model on 814k samples & hit 97.8% accuracy 🚀"
-
-    def motto(self):
-        return "Build things that matter. Learn things that scale."
-```
+| | |
+|---|---|
+| 👩‍💻 **Name** | Bhuvaneswari N |
+| 🎓 **Degree** | M.Tech Software Engg @ VIT · 8.66 CGPA |
+| 📍 **Location** | India 🇮🇳 |
+| 🔭 **Working On** | Full-Stack & ML Systems |
+| 🌱 **Learning** | Spark · MLflow · Microservices |
+| 🚀 **Fun Fact** | 97.8% accuracy on 814k samples |
+| 💬 **Ask Me** | Java · Python · Spring Boot · TensorFlow |
+| ⚡ **Motto** | *Build things that matter. Learn things that scale.* |
 
 <br clear="right"/>
 
