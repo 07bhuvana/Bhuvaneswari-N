@@ -91,9 +91,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-rho.vercel.app/api?username=07bhuvana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=07bhuvana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6" />
+  <img src="https://streak-stats.demolab.com?user=07bhuvana&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -108,8 +106,9 @@
 
 ## 🏆 Trophy Wall
 
-<img src="https://github-profile-trophy.vercel.app/?username=07bhuvana&theme=discord&no-frame=true&no-bg=true&row=1&column=6" />
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=07bhuvana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>---
 
 ## 💼 Work Experience
 
